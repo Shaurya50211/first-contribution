@@ -1,4 +1,13 @@
 const contributors = [
+ {
+        name : "Shaurya Gupta",
+        branch : "iOS Dev",
+        college : "NA",
+        year : 2028,
+        linkedin : "https://www.linkedin.com/in/shaurya-gupta-b32794249/",
+        github : "https://github.com/Shaurya50211",
+        gender : "male"
+    },
   {
     name: "Danish Zayan",
     branch: "MCA",
